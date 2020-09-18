@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Deep Learning at Centro de Informática - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Deep Learning at Centro de Informática -- Pictures"
 permalink: /pictures/
 ---
 

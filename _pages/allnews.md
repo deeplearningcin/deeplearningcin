@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Deep Learning at Centro de Informática - UFPE."
 sitemap: false
 permalink: /allnews.html
 ---

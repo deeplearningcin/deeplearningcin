@@ -1,25 +1,17 @@
 ---
-title: "Allan Lab - Research"
+title: "Deep Learning at Centro de Informática - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Deep Learning at Centro de Informática -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research projects
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Deep Learning is an essential field of Machine Learning based on computer algorithms for data representations at multiple levels of abstraction. These representations involve a hierarchy of features or concepts where higher-level representations are defined from lower-level ones. The same lower-level representations help define higher-level ones. Deep learning uses artificial neural networks with many layers and large datasets to training algorithms on how to solve perceptual problems, such as detecting recognizable concepts in data, translating or understanding natural languages, interpreting information from input data, and more. Deep Artificial Neural Networks have recently won numerous contests in Pattern Recognition and Machine Learning.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+The Deep Artificial Neural Networks literature and applications actually represent the best recognition performance in different Pattern Recognition fields, including computer vision, image recognition, speech recognition, natural language processing, text processing, information retrieval, and multimodal information processing.
+Despite the significant progress and results, many challenges remain, aspects like large-scale parameter optimization, modeling of temporal data with long-term dependencies, generative modeling, efficient Bayesian inference, multimodal data and models, and learning representations needs more contributions.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
-
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+Our overarching goal is to gather the recent advances, ongoing developments, and the road that lies ahead of the field of Deep Learning in Artificial Neural Networks. The suggested research areas are, but not restricted to, Restricted Boltzmann Machines and Autoencoders (Unsupervised), Convolutional Neural Networks and Recurrent Neural Networks (Supervised),  Adversarial Ataques and Defenses, Deep (Feed Forward) Neural Networks (Supervised), Neural Turing Machines and Memory Networks (Supervised), Neural Architecture Search, Deep Q-Networks (Reinforcement Learning), Sequence to Sequence: Attention Mechanisms, Neural Machine Translations and Neural Conversational Models (Supervised), Few shot Learning, and 
+Generative Adversarial Networks (Unsupervised).

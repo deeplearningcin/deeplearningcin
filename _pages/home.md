@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Deep Learning at CIn - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Deep Learning at Centro de Informática - UFPE."
 sitemap: false
 permalink: /
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Deep Learning at Centro de Informática - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Deep Learning at Centro de Informática -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar Prof. Adriano](https://scholar.google.ch/citations?user=paz29H4AAAAJ), [ResearcherID Prof. Adriano](https://www.researcherid.com/rid/A-3532-2008) [Google Scholar Prof. Cleber](https://scholar.google.ch/citations?user=elnEAAAAJ), [ResearcherID Prof. Cleber](https://www.researcherid.com/rid/C-3196-2017)))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
