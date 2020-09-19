@@ -13,7 +13,7 @@ Deep Learning is an essential field of Machine Learning based on computer algori
 The Deep Artificial Neural Networks literature and applications actually represent the best recognition performance in different Pattern Recognition fields, including computer vision, image recognition, speech recognition, natural language processing, text processing, information retrieval, and multimodal information processing.
 Despite the significant progress and results, many challenges remain, aspects like large-scale parameter optimization, modeling of temporal data with long-term dependencies, generative modeling, efficient Bayesian inference, multimodal data and models, and learning representations needs more contributions.
 
-Our overarching goal is to gather the recent advances, ongoing developments, and the road that lies ahead of the field of Deep Learning in Artificial Neural Networks. The suggested research areas are, but not restricted to:
+Our overarching goal is to gather the recent advances, ongoing developments, and the road that lies ahead of the field of Deep Learning in Artificial Neural Networks. The suggested research areas are (but not restricted to):
 * Restricted Boltzmann Machines and Autoencoders (Unsupervised)
 * Convolutional Neural Networks and Recurrent Neural Networks (Supervised)
 * Adversarial Ataques and Defenses
