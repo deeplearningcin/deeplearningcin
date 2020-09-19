@@ -53,3 +53,4 @@ Course Project: 70%
 * Proficiency in Python
 * Machine Learning knowledge
 * Basic Probability and Statistics
+\\
