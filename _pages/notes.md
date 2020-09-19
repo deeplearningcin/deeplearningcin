@@ -47,9 +47,9 @@ Course Project: 70%
 28	Project Monitoring\\
 29	Projects Panel (Final)\\
 30	Projects Panel (Final)\\
-31	Projects Panel (Final)\\
+31	Projects Panel (Final)
 
 ## Prerequisites
-* Proficiency in Python\\
-* Machine Learning knowledge\\
-* Basic Probability and Statistics\\
+* Proficiency in Python
+* Machine Learning knowledge
+* Basic Probability and Statistics
