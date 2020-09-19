@@ -3,30 +3,33 @@
   info: Associate professor
   email: alio@cin.ufpe.br
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: PhD Computer Science with <a href="www.cin.ufpe.br">Centro de Informática</a>, <a href="www.ufpe.br">Universidade Federal de Pernambuco </a>
+  education2: Visiting Professor with <a href="https://www.etsmtl.ca/">École de Technologie Supérieure (ÉTS)</a>, <a href="http://www.uquebec.ca/">Université du Québec</a>, Canada
+  education3: Bolsista de Produtividade em Pesquisa do CNPq - Nível 2
+  education4: Resume <a href=" http://lattes.cnpq.br/5194381227316437">Lattes </a>
+  education5: Citations by [Google Scholar](https://scholar.google.com/citations?user=paz29H4AAAAJ=en) | [DBLP](https://dblp.org/pid/80/3742.html) | [Semantic Scholar](https://www.semanticscholar.org/search?q=A.-Oliveira) | [Microsoft Academic](https://academic.microsoft.com/author/2098902833)
 
 - name: Cleber Zanchettin
   photo: cz.jpg
   info: Associate professor
   email: cz@cin.ufpe.br
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: PhD Computer Science with <a href="www.cin.ufpe.br">Centro de Informática</a>, <a href="www.ufpe.br">Universidade Federal de Pernambuco </a>
+  education2: Visiting Professor with <a href="https://amaral.northwestern.edu/">Amaral Lab</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, United States
+  education3: Bolsista de Produtividade Desenvolvimento Tecnológico e Extensão Inovadora do CNPq - Nível 2
+  education4: Resume <a href=" http://lattes.cnpq.br/1244195230407619">Lattes </a>
+  education5: Citations by [Google Scholar](https://scholar.google.com/citations?user=Xs-elnEAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/75/5629.html) | [Semantic Scholar](https://www.semanticscholar.org/search?q=Cleber+Zanchettin) | [Microsoft Academic](https://academic.microsoft.com/author/1866277110)
+
 
 - name: David 
   photo: dlm.jpg
   info: Teaching Assistant
-  email: dml3@cin.ufpe.br
-  number_educ: 2
+  email: dlm3@cin.ufpe.br
+  number_educ: 4
   education1: PhD Student with <a href="www.cin.ufpe.br">Centro de Informática</a>, <a href="www.ufpe.br">Universidade Federal de Pernambuco </a>
-  education2: Visiting researcher at the Montreal Institute for Learning Algorithms (MILA) <a href="https://mila.quebec/en/">, University of Montreal (UdeM) <a href="https://www.umontreal.ca/">, Canada
+  education2: Visiting Researcher with <a href="https://mila.quebec/en/">Montreal Institute for Learning Algorithms (MILA)</a>, <a href="https://www.umontreal.ca/">University of Montreal (UdeM)</a>, Canada
+  education3: Resume <a href=" http://lattes.cnpq.br/4271819510740061">Lattes </a>
+  education4: Citations by [Google Scholar](https://scholar.google.com/citations?user=Xs-elnEAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/75/5629.html) | [Semantic Scholar](https://www.semanticscholar.org/search?q=Cleber+Zanchettin) | [Microsoft Academic](https://academic.microsoft.com/author/1866277110)
 
 - name: "This could be you !"
   photo: rock.jpg
