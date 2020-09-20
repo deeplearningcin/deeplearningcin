@@ -16,7 +16,7 @@ The quality of the works developed during the course is highlighted by the origi
 Seminars: 30%\\
 Course Project: 70%
 
-## Course Project Details
+## Course Planning Schedule
 1	Course Overview\\
 2	Neural Networks Review\\
 3	Feature and Representation Learning\\
