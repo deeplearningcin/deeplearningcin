@@ -58,11 +58,11 @@ Deep learning is a key area behind different technologies of computer vision, im
 
 Our overarching goal is to gather the recent advances, ongoing developments, and the road that lies ahead of the field of Deep Learning in Artificial Neural Networks. Enroll the course and be part of the time!
 
-We are grateful for funding from <a href='https://www.ufpe.br'>Universidade Federal de Pernambuco</a>- UFPE, <a href='https://www.cin.ufpe.br'>Centro de Informática </a>- CIn, <a href='https://ai.cin.ufpe.br'>Artificial Inteligence Group at CIn </a>, and Cluster Neumann II at <a href='https://www.cetene.gov.br/'>Centro de Tecnologias Estratégicas do Nordeste - CETENE</a>.
+We are grateful for funding from <a href='https://www.ufpe.br'>Universidade Federal de Pernambuco </a>- UFPE, <a href='https://www.cin.ufpe.br'>Centro de Informática </a>- CIn, <a href='https://ai.cin.ufpe.br'>Artificial Inteligence Group at CIn </a>, and Cluster Neumann II at <a href='https://www.cetene.gov.br/'>Centro de Tecnologias Estratégicas do Nordeste </a>- CETENE.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/marca-ufpe.jpg" style="width: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/marca-ufpe.jpg" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.png" style="width: 160px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.ai.png" style="width: 110px">    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cetene.png" style="width: 110px">    
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cetene.png" style="width: 120px">    
 </figure>
