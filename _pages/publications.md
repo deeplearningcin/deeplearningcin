@@ -9,6 +9,10 @@ permalink: /publications/
 
 # Publications
 
+## Group highlights
+
+(For a full list see [below](#full-list) or go to [Google Scholar Prof. Adriano](https://scholar.google.ch/citations?user=paz29H4AAAAJ), [ResearcherID Prof. Adriano](https://www.researcherid.com/rid/A-3532-2008) [Google Scholar Prof. Cleber](https://scholar.google.ch/citations?user=elnEAAAAJ), [ResearcherID Prof. Cleber](https://www.researcherid.com/rid/C-3196-2017)))
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -46,3 +50,13 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
+
+
+## Full List
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
