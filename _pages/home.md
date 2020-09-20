@@ -53,6 +53,7 @@ Deep learning is a key area behind different technologies of computer vision, im
   </a>
 </div>
 
+Our overarching goal is to gather the recent advances, ongoing developments, and the road that lies ahead of the field of Deep Learning in Artificial Neural Networks. Enroll the course and be part of the time!
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/marca-ufpe.jpg" style="width: 60px">
