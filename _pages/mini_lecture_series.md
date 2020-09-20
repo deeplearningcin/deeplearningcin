@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning at Centro de Informática - UFPE."
+title: "Deep Learning at Centro de Informática - UFPE"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

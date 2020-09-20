@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Deep Learning at Centro de Informática - UFPE."
+excerpt: "Deep Learning at Centro de Informática - UFPE"
 sitemap: false
 permalink: /allnews.html
 ---

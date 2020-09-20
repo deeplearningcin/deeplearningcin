@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning at Centro de Informática - Publications"
 layout: gridlay
-excerpt: "Deep Learning at Centro de Informática -- Publications."
+excerpt: "Deep Learning at Centro de Informática -- Publications"
 sitemap: false
 permalink: /publications/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning at CIn - Home"
 layout: homelay
-excerpt: "Deep Learning at Centro de Informática - UFPE."
+excerpt: "Deep Learning at Centro de Informática - UFPE"
 sitemap: false
 permalink: /
 ---
