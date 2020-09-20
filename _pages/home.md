@@ -54,7 +54,7 @@ Deep learning is a key area behind different technologies of computer vision, im
 </div>
 
 
-<figure class="fourth">
+<figure class="three">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/marca-ufpe.jpg" style="width: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.ai.png" style="width: 110px">    
