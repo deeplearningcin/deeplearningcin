@@ -60,9 +60,8 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 
 We are grateful for funding from <a href='https://www.ufpe.br'>Universidade Federal de Pernambuco </a>- UFPE, <a href='https://www.cin.ufpe.br'>Centro de Informática </a>- CIn, <a href='https://ai.cin.ufpe.br'>Artificial Inteligence Group at CIn </a>, and Cluster Neumann II at <a href='https://www.cetene.gov.br/'>Centro de Tecnologias Estratégicas do Nordeste </a>- CETENE.
 
-<figure class="fifth">
+<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/marca-ufpe.jpg" style="width: 40px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.ai.png" style="width: 100px">    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cetene.png" style="width: 120px">    
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.ai.png" style="width: 100px">      
 </figure>
