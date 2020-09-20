@@ -33,7 +33,7 @@ Deep learning is a key area behind different technologies of computer vision, im
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_BERT-SIDE_2020.png" alt="Slide 3" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_Segmentation_2020.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ICANN_Spatial_2019.png" alt="Slide 4" />
         </div>        
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IEEE_IoT_2020.png" alt="Slide 5" />
