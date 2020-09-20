@@ -27,19 +27,19 @@ Deep learning is a key area behind different technologies of computer vision, im
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/summary.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IJCNN_AM-MobileNet1D_2020.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_AM-MobileNet1D_2020.png" alt="Slide 2" />
         </div>        
 		        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IJCNN_BERT-SIDE_2020.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_BERT-SIDE_2020.png" alt="Slide 3" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IJCNN_Segmentation_2020.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_Segmentation_2020.png" alt="Slide 4" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IEEE_IoT_2020.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IEEE_IoT_2020.png" alt="Slide 5" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IJCNN_6DoF_2020.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_6DoF_2020.png" alt="Slide 6" />
         </div>        
 
     </div>
@@ -54,7 +54,7 @@ Deep learning is a key area behind different technologies of computer vision, im
 </div>
 
 
-<figure class="three">
+<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/marca-ufpe.jpg" style="width: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.ai.png" style="width: 110px">    
