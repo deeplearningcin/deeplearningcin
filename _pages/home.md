@@ -8,9 +8,10 @@ permalink: /
 
 Deep learning is a key area behind different technologies of computer vision, image recognition, speech recognition, natural language processing, text processing, information retrieval, and multimodal information processing. Deep learning is getting lots of attention from the academy and industry. The course started in 2016 and is a deep dive into the deep learning architectures, focusing on learning end-to-end models for these tasks. We have a theoretical and practical approach to allow students to learn to implement, train, and debug their projects.
 
-<figure class="first">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/summary.png" style="width: 120px"" />
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/summary.png" style="width: 40px">
 </figure>
+
 
 Our overarching goal is to gather the recent advances, ongoing developments, and the road that lies ahead of the field of Deep Learning in Artificial Neural Networks. Enroll the course and be part of the time!
 
@@ -24,29 +25,33 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>		
+        <li data-target="#carousel" data-slide-to="6"></li>
+		<li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/summary.png" alt="Slide 1" />
+        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_AM-MobileNet1D_2020.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_AM-MobileNet1D_2020.png" alt="Slide 2" />
         </div>        
 		        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_BERT-SIDE_2020.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_BERT-SIDE_2020.png" alt="Slide 3" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ICANN_Spatial_2019.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ICANN_Spatial_2019.png" alt="Slide 4" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IEEE_IoT_2020.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IEEE_IoT_2020.png" alt="Slide 5" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_6DoF_2020.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_6DoF_2020.png" alt="Slide 6" />
         </div>        
 		<div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_Segmentation_2020.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IJCNN_Segmentation_2020.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
