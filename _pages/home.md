@@ -21,15 +21,7 @@ Deep learning is a key area behind different technologies of computer vision, im
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/summary.png" alt="Slide 1" />
         </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    </div>  
 </div>
 
 Our overarching goal is to gather the recent advances, ongoing developments, and the road that lies ahead of the field of Deep Learning in Artificial Neural Networks. Enroll the course and be part of the time!
