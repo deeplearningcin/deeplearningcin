@@ -9,7 +9,7 @@ permalink: /
 Deep learning is a key area behind different technologies of computer vision, image recognition, speech recognition, natural language processing, text processing, information retrieval, and multimodal information processing. Deep learning is getting lots of attention from the academy and industry. The course started in 2016 and is a deep dive into the deep learning architectures, focusing on learning end-to-end models for these tasks. We have a theoretical and practical approach to allow students to learn to implement, train, and debug their projects.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/summary.png" style="width: 40px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/summary.png" style="width: 40px">
 </figure>
 
 
