@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning at Centro de Informática - Research"
+title: "CIn UFPE Deep Learning - Research"
 layout: textlay
 excerpt: "Deep Learning at Centro de Informática -- Research"
 sitemap: false

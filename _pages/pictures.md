@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning at Centro de Informática - Pictures"
+title: "CIn UFPE Deep Learning - Pictures"
 layout: piclay
 excerpt: "Deep Learning at Centro de Informática -- Pictures"
 permalink: /pictures/

@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning at Centro de Informática - Team"
+title: "CIn UFPE Deep Learning - Team"
 layout: gridlay
 excerpt: "Deep Learning at Centro de Informática: Team members"
 sitemap: false

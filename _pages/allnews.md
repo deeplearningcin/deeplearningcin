@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "CIn UFPE Deep Learning - News"
 layout: textlay
 excerpt: "Deep Learning at Centro de Informática - UFPE"
 sitemap: false

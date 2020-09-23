@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning at Centro de Informática - Publications"
+title: "CIn UFPE Deep Learning - Publications"
 layout: gridlay
 excerpt: "Deep Learning at Centro de Informática -- Publications"
 sitemap: false
