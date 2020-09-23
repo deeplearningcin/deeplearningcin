@@ -75,7 +75,7 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
   </a>
 </div>
 
-We are grateful for funding from <a href='https://www.ufpe.br'>Universidade Federal de Pernambuco </a>- UFPE, <a href='https://www.cin.ufpe.br'>Centro de Informática </a>- CIn, <a href='https://ai.cin.ufpe.br'>Artificial Inteligence Group at CIn </a>, and Cluster Neumann II at <a href='https://www.cetene.gov.br/'>Centro de Tecnologias Estratégicas do Nordeste </a>- CETENE.
+We are grateful for funding from <a href='https://www.ufpe.br'>Universidade Federal de Pernambuco </a>- UFPE, <a href='https://www.cin.ufpe.br'>Centro de Informática </a>- CIn, <a href='https://ai.cin.ufpe.br'>Artificial Inteligence Group at CIn </a>- CIn.AI, and Cluster Neumann II at <a href='https://www.cetene.gov.br/'>Centro de Tecnologias Estratégicas do Nordeste </a>- CETENE.
 
 <br /> 
 
