@@ -44,7 +44,7 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * OctHU-PageScan: A Fast Fully Octave Convolutional Neural Network for image segmentation
 * Deep Fall Detection
 * Modelo de Regressão utilizando Redes Neurais Convolucionais aplicado a Sistemas de Potência
-* Fast Unsupervised Cyber-Attack Detection for Time Series with Generative Adversarial Networks
+* <a href='https://doi.org/10.1109/JIOT.2020.3024800'>Fast Unsupervised Cyber-Attack Detection for Time Series with Generative Adversarial Networks</a>
 * Uso do YOLO na detecção de objetos na RoboCup SPL
 * Direct Random Target Projection as Feedback Alignment algorithm with layerwise feedforward training for Deep Learning Architecture
 * Quality Assessment of In-the-Wild Videos: A New Approach
