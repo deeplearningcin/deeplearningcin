@@ -29,22 +29,22 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 
 ## Previous projects (2019.2)
 
-* KutralNet: A mobile deep model approach
+* KutralNet: A mobile deep model approach - <a href='https://arxiv.org/abs/2008.06866'>DOI</a>
 * Comparativo Entre as Redes Neurais Faster-RCNN Inception V2, RFCN Resnet101 e SSD MobilenetV2 para o problema de Detecção de Ovos do Mosquito Aedes Aegypti em imagens
 * Classificação desbalanceada com subconceitos e sincronização de séries temporais no monitoramento ́remoto de plantações
 * Multi-Label Image Recognition With Simple Graph Convolution
 * Learning on Soccer Cooperative Environment
-* Squeezed Deep 6DoF Pose Detection Using Knowledge Distillation
+* Squeezed Deep 6DoF Pose Detection Using Knowledge Distillation - <a href='https://arxiv.org/abs/2003.13586'>DOI</a>
 * Conditional GAN for missing data imputation
-* BERT-Side – Using BERT for Distantly-Supervised Neural Relation Extraction with Side Information
+* BERT-Side – Using BERT for Distantly-Supervised Neural Relation Extraction with Side Information - <a href='https://arxiv.org/abs/2004.14443'>DOI</a>
 * Multiclass financial fraud detection by integrating supervised learning with adversarial autoencoders
 * Table Retrieval: Matching Articles and Web Tables
 * Personal protective equipment detection in industrial facilities using camera video streaming
 * Benchmark de Políticas de Learning Rate e Proposição de Uma Política Baseada em Decaimentos com Feedback
-* OctHU-PageScan: A Fast Fully Octave Convolutional Neural Network for image segmentation
+* OctHU-PageScan: A Fast Fully Octave Convolutional Neural Network for image segmentation - <a href='https://arxiv.org/abs/2004.01317'>DOI</a>
 * Deep Fall Detection
 * Modelo de Regressão utilizando Redes Neurais Convolucionais aplicado a Sistemas de Potência
-* <a href='https://doi.org/10.1109/JIOT.2020.3024800'>Fast Unsupervised Cyber-Attack Detection for Time Series with Generative Adversarial Networks</a>
+* Fast Unsupervised Cyber-Attack Detection for Time Series with Generative Adversarial Networks - <a href='https://doi.org/10.1109/JIOT.2020.3024800'>DOI</a>
 * Uso do YOLO na detecção de objetos na RoboCup SPL
 * Direct Random Target Projection as Feedback Alignment algorithm with layerwise feedforward training for Deep Learning Architecture
 * Quality Assessment of In-the-Wild Videos: A New Approach
@@ -57,20 +57,20 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 
 ## Previous projects (2018.2)
 
-* Reduced Very Deep Convolutional Neural Network for Text Classification
+* Reduced Very Deep Convolutional Neural Network for Text Classification - <a href='https://doi.org/10.1007/978-3-030-30487-4_16'>DOI</a>
 * Single Image Super-Resolution Using A Multi-Scale Generative Adversarial Network
-* Towards Optimizing Convolutional Neural Networks for Robotic Surgery Skill Evaluation
+* Towards Optimizing Convolutional Neural Networks for Robotic Surgery Skill Evaluation - <a href='https://doi.org/10.1109/IJCNN.2019.8852341'>DOI</a>
 * Speaker Recognition With SincNet-N in Noisy Environment
 * Deep Voice Style Transfer with CycleGAN
 * Capsule Network for Anomaly Detection
 * Dbpedia Entities Embeddings from Abstracts Wikipedia
-* Rastreamento de Poses Humanas a Partir de Imagens RGB
-* Image Generation from Text Embeddings with Multiple Attention Sources
+* Rastreamento de Poses Humanas a Partir de Imagens RGB - <a href='https://10.1007/978-3-030-30493-5_59'>DOI</a>
+* Image Generation from Text Embeddings with Multiple Attention Sources - <a href='https://doi.org/10.1007/978-3-030-30493-5_39'>DOI</a>
 * Convolutional Neural and Hierarchical Attention Networks for document classification
-* WGANs to ECG Data Augmentation in Heart Beat Anomaly Detection by 2D-CNN
-* Otimizaçãoo do Consumo de Energia em Redes Ad Hoc Aloha Empregando Deep learning
-* AM-SincNet
-* Using Attention Mechanisms to Improve ULMFiT
+* WGANs to ECG Data Augmentation in Heart Beat Anomaly Detection by 2D-CNN - <a href='https://doi.org/10.1109/IJCNN.2019.8852242'>DOI</a>
+* Otimizaçãoo do Consumo de Energia em Redes Ad Hoc Aloha Empregando Deep learning - <a href='https://doi.org/10.5753/wperformance.2019.6462'>DOI</a>
+* AM-SincNet - <a href='https://doi.org/10.1109/IJCNN.2019.8852112'>DOI</a>
+* Using Attention Mechanisms to Improve ULMFiT - <a href='https://doi.org/10.1109/IJCNN.2019.8852398'>DOI</a>
 * Residual Gaussian Denoiser with Adversarial Loss
 * A deep learning approach to predict remaining useful life of systems based on vibration signal
 * Semantic Segmentation for People Detection from Beach Images
@@ -83,7 +83,7 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Extracting human attributes using a convolutional neural network approach
 * Learning to generate reviews and discovering sentimento
 * Unsurpevised LSTM in handwriting recognition
-* Using Depthwise Separable Convolution to Reduce Time Processing on SqueezeNets
+* Using Depthwise Separable Convolution to Reduce Time Processing on SqueezeNets - <a href='https://doi.org/10.1109/IJCNN.2018.8489442'>DOI</a>
 * CNN implementation of model VGG and ResNet in OpenCL Multiplatform	
 * Multiclass anomaly detection using deep learning and one-class SVM
 * FaceNet: A Unified Embedding for Face Recognition and Clustering
@@ -98,17 +98,17 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Reading Wikipedia to Answer Open-Domain Questions
 * Deep Learning for steganalysis of spatial domain steganography
 * A comparison between batch normalization and dropout for Natural language processing in sentiment analysis
-* SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+* SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation - <a href='https://doi.org/10.1109/IJCNN.2018.8489376'>DOI</a>
 
 ## Previous projects (2016.2)
 
-* Activation Functions for Deep Learning: A Comparative Study using Statistical Tests
+* Activation Functions for Deep Learning: A Comparative Study using Statistical Tests - <a href='https://doi.org/10.1016/j.eswa.2019.01.066'>DOI</a>
 * Reconhecimento de autores e fraudes em manuscritos utilizando Deep Learning
 * Análise para Seleção de Gradientes e o Processo de “Desaprendizagem para Aprender”
-* The Impact of Datasets Complexity and Diversity on Transfer Learning over Convolutional Neural Networks
+* The Impact of Datasets Complexity and Diversity on Transfer Learning over Convolutional Neural Networks - <a href='https://10.1007/978-3-319-68612-748'>DOI</a>
 * Breaking Hash Passwords using Deep Learning
 * Exploring CNNs for Reduced Manually Fed Training Datasets for Text Based CAPTCHA Recognition
-* Uso de diferentes modelos de cores em redes neurais convolucionais para detecção de bordas
+* Uso de diferentes modelos de cores em redes neurais convolucionais para detecção de bordas - <a href='https://doi.org/10.1109/IJCNN.2019.8851701'>DOI</a>
 * RNN-LSTM para Previsão de Séries Temporais
 * Report of project in deep learning: 2DPCANet
 * Detecção de anomalias baseada em autoencoders convolucionais

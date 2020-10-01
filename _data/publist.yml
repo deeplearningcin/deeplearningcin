@@ -123,7 +123,7 @@
   description:  O presente artigo propõe uma nova abordagem baseada em aprendizagem de máquina que considera a entrada e a saı́da de um algoritmo de controle de consumo de energia em redes ad hoc slotted Aloha de múltiplas varáveis. Resultados mostram que a rede neural proposta obteve melhor desempenho em relação ao tempo de processamento e custo computacional quando comparado aos algoritmos de controle energético de busca gulosa utilizados atualmente.
   authors: P. F. C. Barbosa, D. Macêdo, B. A. Da Silva, R. M. De Moraes, C. Zanchettin
   link:
-    url: https://doi.org/10.5753/wperformance.2019.6462.
+    url: https://doi.org/10.5753/wperformance.2019.6462
     display:  WPerformance, 2019
   highlight: 1
   news2:
@@ -183,7 +183,7 @@
   description: We performed a statistical analysis through several experiments in which the convolutional neural networks (LeNet-5, AlexNet, VGG-11 and VGG-16) were trained and transferred to different target tasks layer by layer. We show that when working with complex low-quality images and small datasets, fine-tuning the transferred features learned from a low complexity source dataset gives the best results.
   authors: M. D. S. Wanderley, L. A. Bueno, C. Zanchettin, A. L. I. Oliveira
   link:
-    url: https://10.1007/978-3-319-68612-7 48
+    url: https://10.1007/978-3-319-68612-748
     display:  International Conference on Neural Networks, 2017
   highlight: 1
   news2:
