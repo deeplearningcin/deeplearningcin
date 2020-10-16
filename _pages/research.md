@@ -29,19 +29,19 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 
 ## Previous projects (2019.2)
 
-* KutralNet: A mobile deep model approach - <a href='https://arxiv.org/abs/2008.06866'>DOI</a>
+* KutralNet: A mobile deep model approach - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207202'>DOI</a>
 * Comparativo Entre as Redes Neurais Faster-RCNN Inception V2, RFCN Resnet101 e SSD MobilenetV2 para o problema de Detecção de Ovos do Mosquito Aedes Aegypti em imagens
 * Classificação desbalanceada com subconceitos e sincronização de séries temporais no monitoramento ́remoto de plantações
 * Multi-Label Image Recognition With Simple Graph Convolution
 * Learning on Soccer Cooperative Environment
-* Squeezed Deep 6DoF Pose Detection Using Knowledge Distillation - <a href='https://arxiv.org/abs/2003.13586'>DOI</a>
+* Squeezed Deep 6DoF Pose Detection Using Knowledge Distillation - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207459'>DOI</a>
 * Conditional GAN for missing data imputation
-* BERT-Side – Using BERT for Distantly-Supervised Neural Relation Extraction with Side Information - <a href='https://arxiv.org/abs/2004.14443'>DOI</a>
+* BERT-Side – Using BERT for Distantly-Supervised Neural Relation Extraction with Side Information - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9206648'>DOI</a>
 * Multiclass financial fraud detection by integrating supervised learning with adversarial autoencoders
 * Table Retrieval: Matching Articles and Web Tables
 * Personal protective equipment detection in industrial facilities using camera video streaming
 * Benchmark de Políticas de Learning Rate e Proposição de Uma Política Baseada em Decaimentos com Feedback
-* OctHU-PageScan: A Fast Fully Octave Convolutional Neural Network for image segmentation - <a href='https://arxiv.org/abs/2004.01317'>DOI</a>
+* OctHU-PageScan: A Fast Fully Octave Convolutional Neural Network for image segmentation - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9206711'>DOI</a>
 * Deep Fall Detection
 * Modelo de Regressão utilizando Redes Neurais Convolucionais aplicado a Sistemas de Potência
 * Fast Unsupervised Cyber-Attack Detection for Time Series with Generative Adversarial Networks - <a href='https://doi.org/10.1109/JIOT.2020.3024800'>DOI</a>
