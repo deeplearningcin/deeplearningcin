@@ -13,7 +13,7 @@
   description: We propose a new deep learning architecture that requires fewer floating-point operations (flops) for fire recognition. Additionally, we propose a portable approach for fire recognition and the use of modern techniques such as inverted residual block, convolutions like depth-wise, and octave, to reduce the model's computational cost.
   authors: A. Ayala, B. J. T. Fernandes, F. Cruz, D. Macêdo, A. L. I. Oliveira, C. Zanchettin
   link:
-    url: https://arxiv.org/abs/2008.06866
+    url: http://dx.doi.org/10.1109/IJCNN48605.2020.9207202
     display:  International Joint Conference on Neural Networks, 2020
   highlight: 1
   news2:
@@ -23,7 +23,7 @@
   description: We investigated a method based on U-Net to detect the document edges and text regions in ID images. Besides the promising results on image segmentation, the U-Net based approach is computationally expensive for a real application, since the image segmentation is a customer device task. We propose a model optimization based on Octave Convolutions to qualify the method to situations where storage, processing, and time resources are limited, such as in mobile and robotic applications.
   authors: R. B. Neves Junior, L. F. Vercosa, D. Macêdo, A. L. I. Oliveira, C. Zanchettin 
   link:
-    url: https://arxiv.org/abs/2004.01317
+    url: http://dx.doi.org/10.1109/IJCNN48605.2020.9206711
     display:  International Joint Conference on Neural Networks, 2020
   highlight: 1
   news2:
@@ -33,7 +33,7 @@
   description: We propose a portable model called Additive Margin MobileNet1D (AM-MobileNet1D) to Speaker Identification on mobile devices. We evaluated the proposed approach on TIMIT and MIT datasets obtaining equivalent or better performances concerning the baseline methods. Additionally, the proposed model takes only 11.6 megabytes on disk storage against 91.2 from SincNet and AM-SincNet architectures, making the model seven times faster, with eight times fewer parameters.
   authors: J. A. C. Nunes, D. Macêdo, C. Zanchettin
   link:
-    url: https://arxiv.org/abs/2004.00132
+    url: http://dx.doi.org/10.1109/IJCNN48605.2020.9207519
     display:  International Joint Conference on Neural Networks, 2020
   highlight: 1
   news2:
@@ -43,7 +43,7 @@
   description: We propose a related approach to RESIDE also using additional side information, but simplifying the sentence encoding with BERT embeddings. Through experiments, we show the effectiveness of the proposed method in Google Distant Supervision and Riedel datasets concerning the BGWA and RESIDE baseline methods. Although Area Under the Curve is decreased because of unbalanced datasets, P@N results have shown that the use of BERT as sentence encoding allows superior performance to baseline methods.
   authors: J. Moreira, C. Oliveira, D. Macêdo, C. Zanchettin, L. A. Barbosa
   link:
-    url: https://arxiv.org/abs/2004.14443
+    url: http://dx.doi.org/10.1109/IJCNN48605.2020.9206648
     display:  International Joint Conference on Neural Networks, 2020
   highlight: 1
   news2:
@@ -53,7 +53,7 @@
   description: We propose an approach to reduce the complexity of 6DoF detection networks while maintaining accuracy. We used Knowledge Distillation to teach portables Convolutional Neural Networks (CNN) to learn from a real-time 6DoF detection CNN. The proposed method allows real-time applications using only RGB images while decreasing the hardware requirements. We used the LINEMOD dataset to evaluate the proposed method, and the experimental results show that the proposed method reduces the memory requirement by almost 99\% in comparison to the original architecture with the cost of reducing half the accuracy in one of the metrics. 
   authors: H. Felix, W. Rodrigues, D. Macêdo, F. Simões, A. L. I. Oliveira; V. Teichrieb, C. Zanchettin
   link:
-    url: https://arxiv.org/abs/2003.13586
+    url: http://dx.doi.org/10.1109/IJCNN48605.2020.9207459
     display:  International Joint Conference on Neural Networks, 2020
   highlight: 1
   news2:
